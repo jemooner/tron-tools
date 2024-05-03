@@ -1,0 +1,14 @@
+# 程序配置
+console:
+  name: "tron-tools"
+  version: "v1.0"
+  port: ":9091"
+
+# 日志配置
+log: "yaml/log.json"
+
+tron:
+  nodeurl: "https://api.trongrid.io"
+  contractAddr: "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+#  nodeurl: "https://nile.trongrid.io"
+#  contractAddr: "TEwzqghQrck3B7hxC1HBTDDnGRGRXtjSLs"
